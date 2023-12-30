@@ -18,3 +18,6 @@ The following hyperparameters were used during training:
 - lr_scheduler_type: linear
 - lr_scheduler_warmup_steps: 500
 - num_epochs: 1
+### Streamlit App
+Open Streamlit_App_Text_Summarizer.ipynb for a live demo
+It is recommended to use colab.
