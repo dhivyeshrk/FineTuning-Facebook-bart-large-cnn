@@ -27,3 +27,4 @@ The following hyperparameters were used during training:
 ### Streamlit App
 Open Streamlit_App_Text_Summarizer.ipynb for a live demo
 It is recommended to use colab.
+https://github.com/dhivyeshrk/FineTuning-Facebook-bart-large-cnn/assets/99530121/6102dee2-615e-413e-994c-643fa9f3bfcd
