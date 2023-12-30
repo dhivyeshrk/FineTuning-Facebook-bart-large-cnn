@@ -3,6 +3,12 @@ Training and benchmarking text-summarization models against Rouge score on the S
 ### Results  : 
 ![image](https://github.com/dhivyeshrk/FineTuning-Facebook-bart-large-cnn/assets/99530121/807875cf-1efb-4346-9fbe-c667320299c5)
 
+#### Improvement after Fine-Tuning
+Rouge1 : 30.6 % Improvement
+Rouge2 : 103 % Improvement
+RougeL : 33.18 % Improvement
+RougeLSum : 33.18 % Improvement
+
 The fine-tuned model can be found at https://huggingface.co/dhivyeshrk/bart-large-cnn-samsum
 Runtime Logs and GPU utilization can be found in wandb_logs.pdf
 Trained on Nvidia Tesla P100 
