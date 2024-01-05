@@ -1,0 +1,6 @@
+Transformers==4.30.2
+Pytorch==2.0.0
+Datasets==2.1.0
+Tokenizers==0.13.3
+wandb==0.15.5
+rouge_score==0.1.2
